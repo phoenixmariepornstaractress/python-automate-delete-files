@@ -2,7 +2,7 @@
 **A paranoid, user-friendly, and fully auditable file “deletion” tool**
 
 ```text
-GitHub: https://github.com/your-username/secure-delete-utility
+GitHub: https://github.com/phoenixmariepornstaractress/python-automate-delete-files
 Language: Python 3.8+
 License: MIT
 ```
